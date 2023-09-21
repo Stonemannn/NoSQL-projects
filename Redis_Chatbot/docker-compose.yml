@@ -1,0 +1,22 @@
+version: '1.0'
+services:
+  my_redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    volumes:
+      - /Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql/HW/mini_project1:/usr/chatbot
+    networks:
+      - app-network
+
+  python_client:
+    image: continuumio/anaconda3:latest
+    networks:
+      - app-network
+    depends_on:
+      - my_redis
+
+networks:
+  app-network:
+    driver: bridge
+
