@@ -19,6 +19,8 @@ def get_weather(city):
 def get_fun_fact():
     return random.choice(fun_facts)
 
+# The chatbot can recognize the following special commands 
+# and provide automated responses to them
 def handle_command(command):
     if command.startswith('!help'):
         return "Available commands: !help, !weather <city>, !fact, !whoami"
@@ -55,6 +57,7 @@ class Chatbot:
         """
         print(intro)
 
+    # User Identification
     def identify(self, username, age, gender, location):
         self.username = username
         self.client.hset(f"user:{username}", mapping={
@@ -65,7 +68,7 @@ class Chatbot:
         print(f"Hello, {username}! You've been identified.")
 
 
-
+    # Channels
     def join_channel(self, channel):
         self.pubsub.subscribe(channel)
         self.current_channel = channel 
@@ -123,6 +126,7 @@ class Chatbot:
 
 
 if __name__ == "__main__":
+    # Chatbot Initialization 
     bot = Chatbot()
     
     while True:
@@ -130,10 +134,9 @@ if __name__ == "__main__":
         Options:
         1: Identify yourself
         2: Join a channel
-        3: Leave a channel
-        4: Send a message to a channel
-        5: Get info about a user
-        6: Exit
+        3: Send a message to a channel
+        4: Get info about a user
+        5: Exit
         """)
 
         choice = input('Enter your choice: ')
@@ -152,18 +155,14 @@ if __name__ == "__main__":
         elif choice == '2':
             channel = input('Enter the channel number you want to join: ')
             bot.join_channel(channel)
-        
-        elif choice == '3':
-            channel = input('Enter the channel number you want to leave: ')
-            bot.leave_channel(channel)            
 
-        elif choice == '4':
+        elif choice == '3':
             channel = input('Enter the channel number you want to send a message: ')
             message = input('Enter the message you want to send: ')
             bot.send_message(channel, message)     
 
         # In case the invalid input
-        elif choice == '5':
+        elif choice == '4':
             user = input('Enter the user name: ')
 
             if not bot.client.exists(f"user:{user}"):
@@ -171,7 +170,7 @@ if __name__ == "__main__":
             else:
                 bot.get_user_info(user)
         
-        elif choice == '6':
+        elif choice == '5':
             print('Adios, my friend!')
             break
 

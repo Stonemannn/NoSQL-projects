@@ -1,13 +1,16 @@
 # Redis_Chatbot
 
-This Chatbot uses Redis's Pub/Sub mechanism to realize  real-time messaging. I created this Chatbot by integrating Redis with Python.
+This chatbot leverages Redis's Pub/Sub mechanisms to enable real-time messaging. It is built by integrating Redis with Python.
 
-### Instruction
-To use this Chatbot for fun, you should first run the docker-compose file in this directory to create 2 containers: one is for python and the other one is or redis, including the network between these two containers.
+### Unique Features
+This chatbot offers an experience akin to iMessage or Instagram's messaging service. As long as you're in a channel, you can receive live messages. Once you leave the channel, you won't receive any further messages. This adds a layer of real-time interactivity that goes beyond the basic Pub/Sub structure, where you would otherwise need to subscribe and unsubscribe from channels manually.
 
-After running the docker-compose file successfully, you can simply run command 'python3 Redis_Chatbot.py' in your terminal.
+### Instructions
+To engage with this chatbot, you must first run the `docker-compose` file located in this directory to set up two containers: one for Python and another for Redis. This also establishes the network connection between the two containers.
 
-You will see following instruction:
+After successfully running the `docker-compose` file, simply execute `python3 Redis_Chatbot.py` in your terminal.
+
+You will be presented with the following instructions:
 
         Hi! I'm your friendly Redis Chatbot.
         Here are the commands this bot supports:
