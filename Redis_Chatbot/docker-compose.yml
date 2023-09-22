@@ -1,20 +1,29 @@
 version: '1.0'
+
 services:
-  my_redis:
+  redis:
     image: redis:latest
+    container_name: my-redis
     ports:
       - "6379:6379"
     volumes:
-      - /Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql/HW/mini_project1:/usr/chatbot
+      - "/Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql:/usr/ds5760"
     networks:
       - app-network
 
-  python_client:
-    image: continuumio/anaconda3:latest
-    networks:
-      - app-network
-    depends_on:
-      - my_redis
+
+  python-app:
+      image: python:3.9-slim
+      container_name: slim-python
+      depends_on:
+        - redis
+      volumes:
+        - "/Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql:/usr/ds5760"
+      working_dir: /usr/ds5760/
+      networks:
+        - app-network
+      command: tail -f /dev/null
+
 
 networks:
   app-network:
