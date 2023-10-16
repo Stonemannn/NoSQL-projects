@@ -1,0 +1,2902 @@
+[
+    {
+        "job_id": 1,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 44003,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 5,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "11-50",
+            "type": "Enterprise",
+            "location": "Seattle, WA",
+            "website": "https://infoflowsolutions.com",
+            "description": "DataSphere Analytics is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Professional development assistance, Dental insurance, Parental leave, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "l, x, e, c"
+        }
+    },
+    {
+        "job_id": 2,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 128830,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "NeuralNet Innovations",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://pioneerdataservices.com",
+            "description": "Pioneer Data Services is a leading firm in the Startup sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Parental leave, Paid time off, Gym membership, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "e, e,  "
+        }
+    },
+    {
+        "job_id": 3,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 135886,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 8,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DeepLearn Systems",
+            "size": "201-500",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://quantumleapanalytics.com",
+            "description": "InfoFlow Solutions is a leading firm in the SME sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Health insurance, Gym membership, Professional development assistance, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "l, e, E, c"
+        }
+    },
+    {
+        "job_id": 4,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 116593,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 8,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "1-10",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://deeplearnsystems.com",
+            "description": "Quantum Leap Analytics is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Paid time off, Tuition reimbursement, Vision insurance, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "l, a, b"
+        }
+    },
+    {
+        "job_id": 5,
+        "title": "Machine Learning Engineer",
+        "industry": "Tech",
+        "average_salary": 85248,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 7,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "1001-5000",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://deeplearnsystems.com",
+            "description": "DataPulse Systems is a leading firm in the Startup sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quanttechlabs.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Vision insurance, Paid time off, Tuition reimbursement, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "s"
+        }
+    },
+    {
+        "job_id": 6,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 109817,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 3,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "1-10",
+            "type": "Enterprise",
+            "location": "Austin, TX",
+            "website": "https://optimainsights.com",
+            "description": "NexaCore Tech is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@evotechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Gym membership, Vision insurance, Professional development assistance, Retirement plan, Parental leave",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "y, P, t, n"
+        }
+    },
+    {
+        "job_id": 7,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 141005,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 3,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "Pioneer Data Services",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "San Francisco, CA",
+            "website": "https://evotechsolutions.com",
+            "description": "NexaCore Tech is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@eagleeyedata.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Dental insurance, Vision insurance, Retirement plan, Parental leave",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "n, a, M"
+        }
+    },
+    {
+        "job_id": 8,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 132291,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 3,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "51-200",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://datasphereanalytics.com",
+            "description": "EvoTech Solutions is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datasphereanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Gym membership, Retirement plan, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "l"
+        }
+    },
+    {
+        "job_id": 9,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 132942,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 5,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "11-50",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://nexacoretech.com",
+            "description": "DataSphere Analytics is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@deeplearnsystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Paid time off, Health insurance, Retirement plan, Parental leave, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "o, Q, L"
+        }
+    },
+    {
+        "job_id": 10,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 64580,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DeepLearn Systems",
+            "size": "11-50",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://datasphereanalytics.com",
+            "description": "Pioneer Data Services is a leading firm in the SME sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexacoretech.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Vision insurance, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "e"
+        }
+    },
+    {
+        "job_id": 11,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 41233,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "51-200",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://infoflowsolutions.com",
+            "description": "DataPulse Systems is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datasphereanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Health insurance, Paid time off, Gym membership, Dental insurance, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "N, o"
+        }
+    },
+    {
+        "job_id": 12,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 98866,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 1,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "1001-5000",
+            "type": "Multinational",
+            "location": "New York, NY",
+            "website": "https://optimainsights.com",
+            "description": "TerraTech Solutions is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Tuition reimbursement, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "n, e"
+        }
+    },
+    {
+        "job_id": 13,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 84920,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 2,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "501-1000",
+            "type": "SME",
+            "location": "Seattle, WA",
+            "website": "https://eagleeyedata.com",
+            "description": "Nimbus Tech is a leading firm in the Startup sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Gym membership, Professional development assistance, Health insurance, Tuition reimbursement, Vision insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "e, g, D, i"
+        }
+    },
+    {
+        "job_id": 14,
+        "title": "Digital Marketing Analyst",
+        "industry": "E-commerce",
+        "average_salary": 72290,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 4,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "501-1000",
+            "type": "Startup",
+            "location": "Austin, TX",
+            "website": "https://nexatech.com",
+            "description": "EagleEye Data is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexatech.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Dental insurance, Vision insurance, Tuition reimbursement, Health insurance, Paid time off",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "r, a"
+        }
+    },
+    {
+        "job_id": 15,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 146086,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 4,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "501-1000",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://datapulsesystems.com",
+            "description": "DataPulse Systems is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Dental insurance, Retirement plan, Gym membership, Vision insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "e"
+        }
+    },
+    {
+        "job_id": 16,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 103530,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DataDriven",
+            "size": "1001-5000",
+            "type": "SME",
+            "location": "Seattle, WA",
+            "website": "https://pioneerdataservices.com",
+            "description": "TerraTech Solutions is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Retirement plan, Gym membership, Tuition reimbursement, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "p, r, S, k"
+        }
+    },
+    {
+        "job_id": 17,
+        "title": "Clinical Data Scientist",
+        "industry": "Healthcare",
+        "average_salary": 140767,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 3,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataDriven",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://quantumleapanalytics.com",
+            "description": "Quantum Leap Analytics is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quanttechlabs.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Dental insurance, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "E, e"
+        }
+    },
+    {
+        "job_id": 18,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 117908,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 5,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "501-1000",
+            "type": "Startup",
+            "location": "San Francisco, CA",
+            "website": "https://alphatechventures.com",
+            "description": "NeuralNet Innovations is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datapulsesystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Gym membership, Paid time off, Vision insurance, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "c, h"
+        }
+    },
+    {
+        "job_id": 19,
+        "title": "Computer Scientist",
+        "industry": "Tech",
+        "average_salary": 103860,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Computer Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 4,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataSphere Analytics",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://neuralnetinnovations.com",
+            "description": "InfoFlow Solutions is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexatech.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Dental insurance, Health insurance, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "n, s, N"
+        }
+    },
+    {
+        "job_id": 20,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 103906,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "1-10",
+            "type": "SME",
+            "location": "Austin, TX",
+            "website": "https://optimainsights.com",
+            "description": "EagleEye Data is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Tuition reimbursement, Parental leave, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "a, a"
+        }
+    },
+    {
+        "job_id": 21,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 114694,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 9,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "company": {
+            "name": "EvoTech Solutions",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "Austin, TX",
+            "website": "https://nexatech.com",
+            "description": "Optima Insights is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@infoflowsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Vision insurance, Tuition reimbursement, Paid time off, Health insurance, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "L"
+        }
+    },
+    {
+        "job_id": 22,
+        "title": "Risk Analyst",
+        "industry": "Finance",
+        "average_salary": 107914,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Risk Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 2,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "501-1000",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://quanttechlabs.com",
+            "description": "InfoFlow Solutions is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Health insurance, Retirement plan, Dental insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "A"
+        }
+    },
+    {
+        "job_id": 23,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 118976,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "201-500",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://evotechsolutions.com",
+            "description": "DataDriven is a leading firm in the SME sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quantumleapanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Tuition reimbursement, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "t, y"
+        }
+    },
+    {
+        "job_id": 24,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 126027,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 3,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "company": {
+            "name": "EagleEye Data",
+            "size": "11-50",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://techbridges.com",
+            "description": "InfoFlow Solutions is a leading firm in the Enterprise sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quanttechlabs.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Health insurance, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "i, a"
+        }
+    },
+    {
+        "job_id": 25,
+        "title": "Digital Marketing Analyst",
+        "industry": "E-commerce",
+        "average_salary": 149324,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "TechBridges",
+            "size": "11-50",
+            "type": "Startup",
+            "location": "San Francisco, CA",
+            "website": "https://alphatechventures.com",
+            "description": "Insightful Analytics is a leading firm in the SME sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@insightfulanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Dental insurance, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 26,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 41445,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 4,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Insightful Analytics",
+            "size": "5001-10000",
+            "type": "SME",
+            "location": "San Francisco, CA",
+            "website": "https://quantumleapanalytics.com",
+            "description": "TechBridges is a leading firm in the Multinational sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Vision insurance, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "l, M, b"
+        }
+    },
+    {
+        "job_id": 27,
+        "title": "E-commerce Business Analyst",
+        "industry": "E-commerce",
+        "average_salary": 120033,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 7,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataSphere Analytics",
+            "size": "5001-10000",
+            "type": "Multinational",
+            "location": "Boston, MA",
+            "website": "https://datadriven.com",
+            "description": "TechBridges is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Professional development assistance, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "h, P"
+        }
+    },
+    {
+        "job_id": 28,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 140011,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 2,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataDriven",
+            "size": "1001-5000",
+            "type": "Startup",
+            "location": "Austin, TX",
+            "website": "https://pioneerdataservices.com",
+            "description": "QuantTech Labs is a leading firm in the SME sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Professional development assistance, Parental leave, Vision insurance, Dental insurance, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "a, p, r, k"
+        }
+    },
+    {
+        "job_id": 29,
+        "title": "Computer Scientist",
+        "industry": "Tech",
+        "average_salary": 128525,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Computer Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 5,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "Optima Insights",
+            "size": "501-1000",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://datasphereanalytics.com",
+            "description": "NexaCore Tech is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@alphatechventures.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Gym membership, Tuition reimbursement, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 30,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 125943,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 3,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "201-500",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://nexacoretech.com",
+            "description": "Pioneer Data Services is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Paid time off, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "S, A, S"
+        }
+    },
+    {
+        "job_id": 31,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 119209,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 8,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "5001-10000",
+            "type": "Multinational",
+            "location": "Boston, MA",
+            "website": "https://quantumleapanalytics.com",
+            "description": "EagleEye Data is a leading firm in the Enterprise sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Professional development assistance, Parental leave, Paid time off",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "L, e, r, n"
+        }
+    },
+    {
+        "job_id": 32,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 69223,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DataDriven",
+            "size": "11-50",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://datasphereanalytics.com",
+            "description": "EvoTech Solutions is a leading firm in the Multinational sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quantumleapanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Dental insurance, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "i, c, t, i"
+        }
+    },
+    {
+        "job_id": 33,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 116118,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 10,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "10001+",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://neuralnetinnovations.com",
+            "description": "Pioneer Data Services is a leading firm in the Multinational sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@evotechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Parental leave, Tuition reimbursement, Health insurance, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "N, Q"
+        }
+    },
+    {
+        "job_id": 34,
+        "title": "Machine Learning Engineer",
+        "industry": "Tech",
+        "average_salary": 98488,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 10,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "Quantum Leap Analytics",
+            "size": "5001-10000",
+            "type": "Multinational",
+            "location": "Austin, TX",
+            "website": "https://datadiveanalytics.com",
+            "description": "NexaTech is a leading firm in the Startup sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Dental insurance, Professional development assistance, Tuition reimbursement, Vision insurance, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "i"
+        }
+    },
+    {
+        "job_id": 35,
+        "title": "E-commerce Business Analyst",
+        "industry": "E-commerce",
+        "average_salary": 102752,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 7,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "51-200",
+            "type": "Startup",
+            "location": "San Francisco, CA",
+            "website": "https://neuralnetinnovations.com",
+            "description": "NeuralNet Innovations is a leading firm in the Startup sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Health insurance, Vision insurance, Paid time off, Parental leave",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "a"
+        }
+    },
+    {
+        "job_id": 36,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 145791,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 7,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "TerraTech Solutions",
+            "size": "5001-10000",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://datadiveanalytics.com",
+            "description": "NexaTech is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@insightfulanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Professional development assistance, Tuition reimbursement, Parental leave, Dental insurance, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "a, a"
+        }
+    },
+    {
+        "job_id": 37,
+        "title": "Computer Scientist",
+        "industry": "Tech",
+        "average_salary": 96880,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Computer Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 10,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "EvoTech Solutions",
+            "size": "51-200",
+            "type": "Multinational",
+            "location": "Austin, TX",
+            "website": "https://datadriven.com",
+            "description": "DataDive Analytics is a leading firm in the SME sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quantumleapanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Professional development assistance, Health insurance, Gym membership, Vision insurance, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "r, L"
+        }
+    },
+    {
+        "job_id": 38,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 119802,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 7,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "Pioneer Data Services",
+            "size": "1001-5000",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://eagleeyedata.com",
+            "description": "Quantum Leap Analytics is a leading firm in the SME sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@eagleeyedata.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Retirement plan, Paid time off, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "a, b, a"
+        }
+    },
+    {
+        "job_id": 39,
+        "title": "Clinical Data Scientist",
+        "industry": "Healthcare",
+        "average_salary": 120379,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 7,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "11-50",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://neuralnetinnovations.com",
+            "description": "Pioneer Data Services is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Paid time off, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "S"
+        }
+    },
+    {
+        "job_id": 40,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 102076,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 4,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "1-10",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://terratechsolutions.com",
+            "description": "NeuralNet Innovations is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Vision insurance, Dental insurance, Retirement plan, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "n"
+        }
+    },
+    {
+        "job_id": 41,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 130687,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 9,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills.",
+        "company": {
+            "name": "TechBridges",
+            "size": "10001+",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://insightfulanalytics.com",
+            "description": "NexaCore Tech is a leading firm in the Enterprise sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quanttechlabs.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Vision insurance, Retirement plan, Gym membership, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "k, a"
+        }
+    },
+    {
+        "job_id": 42,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 140253,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 4,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "5001-10000",
+            "type": "Multinational",
+            "location": "Boston, MA",
+            "website": "https://alphatechventures.com",
+            "description": "NexaTech is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Tuition reimbursement, Gym membership, Paid time off, Vision insurance, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "n, o, t, D"
+        }
+    },
+    {
+        "job_id": 43,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 137682,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 7,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "501-1000",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://nimbustech.com",
+            "description": "NexaCore Tech is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nimbustech.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Retirement plan, Dental insurance, Parental leave, Paid time off, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "c"
+        }
+    },
+    {
+        "job_id": 44,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 53931,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 9,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "201-500",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://datadiveanalytics.com",
+            "description": "DataDriven is a leading firm in the SME sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Dental insurance, Health insurance, Retirement plan, Paid time off, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "r, g, a"
+        }
+    },
+    {
+        "job_id": 45,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 129123,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 9,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "company": {
+            "name": "EvoTech Solutions",
+            "size": "1001-5000",
+            "type": "Multinational",
+            "location": "Austin, TX",
+            "website": "https://infoflowsolutions.com",
+            "description": "NexaTech is a leading firm in the SME sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexatech.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Vision insurance, Tuition reimbursement, Retirement plan, Paid time off, Dental insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 46,
+        "title": "Machine Learning Engineer",
+        "industry": "Tech",
+        "average_salary": 147776,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 6,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "NexaTech",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "Seattle, WA",
+            "website": "https://deeplearnsystems.com",
+            "description": "Nimbus Tech is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Vision insurance, Dental insurance, Health insurance, Professional development assistance, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 47,
+        "title": "Risk Analyst",
+        "industry": "Finance",
+        "average_salary": 110589,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Risk Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 9,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "5001-10000",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://evotechsolutions.com",
+            "description": "DataPulse Systems is a leading firm in the Startup sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Parental leave, Tuition reimbursement, Vision insurance, Health insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "S, l, a"
+        }
+    },
+    {
+        "job_id": 48,
+        "title": "Risk Analyst",
+        "industry": "Finance",
+        "average_salary": 150616,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Risk Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 9,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "company": {
+            "name": "Optima Insights",
+            "size": "1001-5000",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://datadriven.com",
+            "description": "Quantum Leap Analytics is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Dental insurance, Parental leave, Vision insurance, Retirement plan, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "v"
+        }
+    },
+    {
+        "job_id": 49,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 94390,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 4,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataSphere Analytics",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://evotechsolutions.com",
+            "description": "Insightful Analytics is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Paid time off, Dental insurance, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "a, i, s, t"
+        }
+    },
+    {
+        "job_id": 50,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 133704,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 6,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "51-200",
+            "type": "Multinational",
+            "location": "Boston, MA",
+            "website": "https://deeplearnsystems.com",
+            "description": "DataDive Analytics is a leading firm in the Multinational sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@alphatechventures.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Dental insurance, Health insurance, Professional development assistance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "e, a, b, l"
+        }
+    },
+    {
+        "job_id": 51,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 93847,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "1001-5000",
+            "type": "Multinational",
+            "location": "Austin, TX",
+            "website": "https://optimainsights.com",
+            "description": "AlphaTech Ventures is a leading firm in the Startup sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quanttechlabs.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Health insurance, Paid time off, Vision insurance, Dental insurance, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "s, i, c, a"
+        }
+    },
+    {
+        "job_id": 52,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 125450,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 10,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataSphere Analytics",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "San Francisco, CA",
+            "website": "https://eagleeyedata.com",
+            "description": "EvoTech Solutions is a leading firm in the Multinational sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Gym membership, Professional development assistance, Vision insurance, Retirement plan, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "B, D, a"
+        }
+    },
+    {
+        "job_id": 53,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 63890,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 10,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DeepLearn Systems",
+            "size": "501-1000",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://neuralnetinnovations.com",
+            "description": "DataSphere Analytics is a leading firm in the SME sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexacoretech.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Parental leave, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 54,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 93886,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 4,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "11-50",
+            "type": "Enterprise",
+            "location": "Austin, TX",
+            "website": "https://infoflowsolutions.com",
+            "description": "InfoFlow Solutions is a leading firm in the SME sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Vision insurance, Health insurance, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "p, n, D"
+        }
+    },
+    {
+        "job_id": 55,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 52871,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 6,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "201-500",
+            "type": "Enterprise",
+            "location": "Austin, TX",
+            "website": "https://datadriven.com",
+            "description": "TechBridges is a leading firm in the Multinational sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datapulsesystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Gym membership, Dental insurance, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "r, p"
+        }
+    },
+    {
+        "job_id": 56,
+        "title": "Risk Analyst",
+        "industry": "Finance",
+        "average_salary": 120327,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Risk Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "11-50",
+            "type": "SME",
+            "location": "Austin, TX",
+            "website": "https://alphatechventures.com",
+            "description": "DataSphere Analytics is a leading firm in the Startup sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Tuition reimbursement, Retirement plan, Parental leave, Paid time off",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "o"
+        }
+    },
+    {
+        "job_id": 57,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 58783,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "501-1000",
+            "type": "Multinational",
+            "location": "New York, NY",
+            "website": "https://nimbustech.com",
+            "description": "Pioneer Data Services is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Parental leave, Gym membership, Retirement plan, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "t, s, t"
+        }
+    },
+    {
+        "job_id": 58,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 71376,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 8,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "TechBridges",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "New York, NY",
+            "website": "https://quanttechlabs.com",
+            "description": "TerraTech Solutions is a leading firm in the Startup sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Gym membership, Parental leave, Vision insurance, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "k"
+        }
+    },
+    {
+        "job_id": 59,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 98540,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 8,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "11-50",
+            "type": "Multinational",
+            "location": "New York, NY",
+            "website": "https://quantumleapanalytics.com",
+            "description": "EagleEye Data is a leading firm in the Multinational sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Gym membership, Professional development assistance, Paid time off, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "g, u, n, e"
+        }
+    },
+    {
+        "job_id": 60,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 43037,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 7,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NeuralNet Innovations",
+            "size": "1001-5000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://datapulsesystems.com",
+            "description": "Optima Insights is a leading firm in the Multinational sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Retirement plan, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "a, o, H, o"
+        }
+    },
+    {
+        "job_id": 61,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 163201,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 9,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "Pioneer Data Services",
+            "size": "501-1000",
+            "type": "Startup",
+            "location": "Austin, TX",
+            "website": "https://quanttechlabs.com",
+            "description": "AlphaTech Ventures is a leading firm in the Startup sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nimbustech.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Tuition reimbursement, Paid time off, Health insurance, Professional development assistance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "x"
+        }
+    },
+    {
+        "job_id": 62,
+        "title": "Systems Architect",
+        "industry": "Tech",
+        "average_salary": 147817,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Systems Architect at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 4,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Optima Insights",
+            "size": "1-10",
+            "type": "SME",
+            "location": "San Francisco, CA",
+            "website": "https://evotechsolutions.com",
+            "description": "NexaTech is a leading firm in the Startup sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Dental insurance, Professional development assistance, Retirement plan, Parental leave, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "s, u,  "
+        }
+    },
+    {
+        "job_id": 63,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 46706,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 4,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "NexaTech",
+            "size": "201-500",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://quanttechlabs.com",
+            "description": "DeepLearn Systems is a leading firm in the Multinational sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@deeplearnsystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Health insurance, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "p, n,  , i"
+        }
+    },
+    {
+        "job_id": 64,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 50951,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 9,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "10001+",
+            "type": "Enterprise",
+            "location": "Austin, TX",
+            "website": "https://datadiveanalytics.com",
+            "description": "TechBridges is a leading firm in the Multinational sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@infoflowsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Gym membership, Professional development assistance, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "P, s"
+        }
+    },
+    {
+        "job_id": 65,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 100713,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 4,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "company": {
+            "name": "DeepLearn Systems",
+            "size": "5001-10000",
+            "type": "Multinational",
+            "location": "Boston, MA",
+            "website": "https://datapulsesystems.com",
+            "description": "Insightful Analytics is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Professional development assistance, Dental insurance, Parental leave, Tuition reimbursement, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "l, e"
+        }
+    },
+    {
+        "job_id": 66,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 95390,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 6,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NeuralNet Innovations",
+            "size": "1-10",
+            "type": "Multinational",
+            "location": "San Francisco, CA",
+            "website": "https://datadriven.com",
+            "description": "EvoTech Solutions is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Health insurance, Paid time off, Professional development assistance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "l, x, E"
+        }
+    },
+    {
+        "job_id": 67,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 132912,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 6,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "11-50",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://eagleeyedata.com",
+            "description": "DataSphere Analytics is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexatech.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Professional development assistance, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": " "
+        }
+    },
+    {
+        "job_id": 68,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 65744,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 7,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "New York, NY",
+            "website": "https://techbridges.com",
+            "description": "Optima Insights is a leading firm in the SME sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@infoflowsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Gym membership, Tuition reimbursement, Dental insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "c, r"
+        }
+    },
+    {
+        "job_id": 69,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 143402,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Data Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 9,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "5001-10000",
+            "type": "SME",
+            "location": "Boston, MA",
+            "website": "https://quanttechlabs.com",
+            "description": "EagleEye Data is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexacoretech.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Paid time off, Retirement plan, Health insurance, Parental leave, Tuition reimbursement",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "r, o, e, g"
+        }
+    },
+    {
+        "job_id": 70,
+        "title": "E-commerce Business Analyst",
+        "industry": "E-commerce",
+        "average_salary": 109071,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 8,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "NexaTech",
+            "size": "1001-5000",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://datapulsesystems.com",
+            "description": "TechBridges is a leading firm in the Startup sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@insightfulanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Tuition reimbursement, Professional development assistance, Retirement plan, Paid time off, Parental leave",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "a, S, l, a"
+        }
+    },
+    {
+        "job_id": 71,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 109472,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 8,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Optima Insights",
+            "size": "51-200",
+            "type": "SME",
+            "location": "Austin, TX",
+            "website": "https://eagleeyedata.com",
+            "description": "DataPulse Systems is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@evotechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Professional development assistance, Retirement plan, Parental leave, Vision insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "a, a, b"
+        }
+    },
+    {
+        "job_id": 72,
+        "title": "Risk Analyst",
+        "industry": "Finance",
+        "average_salary": 71289,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Risk Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 10,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Optima Insights",
+            "size": "11-50",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://optimainsights.com",
+            "description": "EvoTech Solutions is a leading firm in the SME sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadiveanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Vision insurance, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "p, k"
+        }
+    },
+    {
+        "job_id": 73,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 141200,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 8,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "EagleEye Data",
+            "size": "201-500",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://datadriven.com",
+            "description": "NexaCore Tech is a leading firm in the SME sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Dental insurance, Tuition reimbursement, Retirement plan, Professional development assistance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "a, s, c, P"
+        }
+    },
+    {
+        "job_id": 74,
+        "title": "E-commerce Business Analyst",
+        "industry": "E-commerce",
+        "average_salary": 129355,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a E-commerce Business Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 3,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "1001-5000",
+            "type": "Enterprise",
+            "location": "Austin, TX",
+            "website": "https://optimainsights.com",
+            "description": "TechBridges is a leading firm in the Multinational sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@quantumleapanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Parental leave, Gym membership, Vision insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "S, L"
+        }
+    },
+    {
+        "job_id": 75,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 158896,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Data Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataSphere Analytics",
+            "size": "501-1000",
+            "type": "Startup",
+            "location": "Seattle, WA",
+            "website": "https://datadiveanalytics.com",
+            "description": "DeepLearn Systems is a leading firm in the Startup sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datadriven.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Retirement plan, Vision insurance, Gym membership, Health insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "i, r"
+        }
+    },
+    {
+        "job_id": 76,
+        "title": "Digital Marketing Analyst",
+        "industry": "E-commerce",
+        "average_salary": 46945,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 8,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "TechBridges",
+            "size": "201-500",
+            "type": "Enterprise",
+            "location": "New York, NY",
+            "website": "https://pioneerdataservices.com",
+            "description": "EvoTech Solutions is a leading firm in the Startup sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@insightfulanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Dental insurance, Health insurance, Gym membership, Paid time off, Professional development assistance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "l, u, e, b"
+        }
+    },
+    {
+        "job_id": 77,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 139740,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a IT Consultant at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 5,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "201-500",
+            "type": "Enterprise",
+            "location": "New York, NY",
+            "website": "https://nimbustech.com",
+            "description": "DataSphere Analytics is a leading firm in the Startup sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@optimainsights.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Dental insurance, Retirement plan, Paid time off, Tuition reimbursement, Professional development assistance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 78,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 51132,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 2,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "company": {
+            "name": "Pioneer Data Services",
+            "size": "1-10",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://nimbustech.com",
+            "description": "Quantum Leap Analytics is a leading firm in the SME sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Professional development assistance, Dental insurance, Health insurance, Tuition reimbursement, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "t, a, i, a"
+        }
+    },
+    {
+        "job_id": 79,
+        "title": "Quantitative Analyst",
+        "industry": "Finance",
+        "average_salary": 159628,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Quantitative Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "51-200",
+            "type": "SME",
+            "location": "Seattle, WA",
+            "website": "https://insightfulanalytics.com",
+            "description": "Quantum Leap Analytics is a leading firm in the Multinational sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Health insurance, Parental leave, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "N, n, s"
+        }
+    },
+    {
+        "job_id": 80,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 60243,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 1,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "DataPulse Systems",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "New York, NY",
+            "website": "https://nexacoretech.com",
+            "description": "Insightful Analytics is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nimbustech.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Retirement plan, Vision insurance, Parental leave, Professional development assistance, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "b, l, a, t"
+        }
+    },
+    {
+        "job_id": 81,
+        "title": "Digital Marketing Analyst",
+        "industry": "E-commerce",
+        "average_salary": 102447,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Digital Marketing Analyst at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 4,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "11-50",
+            "type": "Startup",
+            "location": "Boston, MA",
+            "website": "https://alphatechventures.com",
+            "description": "InfoFlow Solutions is a leading firm in the Multinational sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Vision insurance, Retirement plan, Paid time off, Dental insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "S, i, i"
+        }
+    },
+    {
+        "job_id": 82,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 142852,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 8,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "EagleEye Data",
+            "size": "10001+",
+            "type": "SME",
+            "location": "Boston, MA",
+            "website": "https://datadiveanalytics.com",
+            "description": "QuantTech Labs is a leading firm in the SME sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Dental insurance, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "c"
+        }
+    },
+    {
+        "job_id": 83,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 109594,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 2,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "1001-5000",
+            "type": "Multinational",
+            "location": "New York, NY",
+            "website": "https://deeplearnsystems.com",
+            "description": "InfoFlow Solutions is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Vision insurance, Paid time off",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "l"
+        }
+    },
+    {
+        "job_id": 84,
+        "title": "Machine Learning Engineer",
+        "industry": "Tech",
+        "average_salary": 101025,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a Machine Learning Engineer at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 8,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Excellent communication skills., Proficiency in Python and SQL.",
+        "company": {
+            "name": "AlphaTech Ventures",
+            "size": "201-500",
+            "type": "Startup",
+            "location": "Austin, TX",
+            "website": "https://alphatechventures.com",
+            "description": "NeuralNet Innovations is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datapulsesystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Parental leave, Tuition reimbursement, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "Q, S, L"
+        }
+    },
+    {
+        "job_id": 85,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 114158,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 9,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills.",
+        "company": {
+            "name": "NeuralNet Innovations",
+            "size": "501-1000",
+            "type": "SME",
+            "location": "San Francisco, CA",
+            "website": "https://optimainsights.com",
+            "description": "NeuralNet Innovations is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nimbustech.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Retirement plan, Health insurance",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "p"
+        }
+    },
+    {
+        "job_id": 86,
+        "title": "Data Scientist",
+        "industry": "Tech",
+        "average_salary": 67614,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 6,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Strong analytical and problem-solving skills.",
+        "company": {
+            "name": "Nimbus Tech",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://quanttechlabs.com",
+            "description": "DataDive Analytics is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@datapulsesystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Tuition reimbursement, Vision insurance, Parental leave, Dental insurance, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "i, t, g"
+        }
+    },
+    {
+        "job_id": 87,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 52687,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 8,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "DataDive Analytics",
+            "size": "201-500",
+            "type": "SME",
+            "location": "New York, NY",
+            "website": "https://nexacoretech.com",
+            "description": "DataDriven is a leading firm in the Enterprise sector. Located in NY, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@evotechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Professional development assistance, Paid time off, Health insurance, Tuition reimbursement, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "P"
+        }
+    },
+    {
+        "job_id": 88,
+        "title": "Clinical Data Scientist",
+        "industry": "Healthcare",
+        "average_salary": 133709,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Clinical Data Scientist at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 2,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Analyze and interpret complex datasets to inform business decision-making., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "Pioneer Data Services",
+            "size": "1001-5000",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://nexacoretech.com",
+            "description": "DataPulse Systems is a leading firm in the SME sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nimbustech.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Paid time off, Health insurance, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 89,
+        "title": "E-commerce Data Analyst",
+        "industry": "E-commerce",
+        "average_salary": 95775,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a E-commerce Data Analyst at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 6,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders.",
+        "requirements": "Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Excellent communication skills., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaTech",
+            "size": "1001-5000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://nimbustech.com",
+            "description": "NeuralNet Innovations is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@alphatechventures.com"
+        },
+        "employment_details": {
+            "employment_type": "Part-time",
+            "benefits": "Professional development assistance, Tuition reimbursement",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "a, a, J, v"
+        }
+    },
+    {
+        "job_id": 90,
+        "title": "Bioinformatics Scientist",
+        "industry": "Healthcare",
+        "average_salary": 131456,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Bioinformatics Scientist at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 4,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills.",
+        "company": {
+            "name": "Quantum Leap Analytics",
+            "size": "5001-10000",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://nexatech.com",
+            "description": "Quantum Leap Analytics is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@neuralnetinnovations.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Tuition reimbursement, Parental leave, Vision insurance",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "a, b, M, t"
+        }
+    },
+    {
+        "job_id": 91,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 149139,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 9,
+        "responsibilities": "Analyze and interpret complex datasets to inform business decision-making., Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Excellent communication skills., Strong analytical and problem-solving skills., Proficiency in Python and SQL., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "NexaCore Tech",
+            "size": "11-50",
+            "type": "Multinational",
+            "location": "Seattle, WA",
+            "website": "https://quantumleapanalytics.com",
+            "description": "DeepLearn Systems is a leading firm in the Enterprise sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@eagleeyedata.com"
+        },
+        "employment_details": {
+            "employment_type": "Temporary",
+            "benefits": "Professional development assistance, Tuition reimbursement, Dental insurance, Retirement plan, Gym membership",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "a, c"
+        }
+    },
+    {
+        "job_id": 92,
+        "title": "IT Consultant",
+        "industry": "Consulting",
+        "average_salary": 112923,
+        "description": "Candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools.",
+        "detailed_description": "The role of a IT Consultant at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 6,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Stay updated with the latest techniques in data science and industry best practices., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Experience with data visualization tools like Tableau, PowerBI, etc., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "1001-5000",
+            "type": "SME",
+            "location": "Austin, TX",
+            "website": "https://deeplearnsystems.com",
+            "description": "Optima Insights is a leading firm in the Startup sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@nexacoretech.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Professional development assistance, Gym membership, Retirement plan",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "a, r"
+        }
+    },
+    {
+        "job_id": 93,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 44946,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 3,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Stay updated with the latest techniques in data science and industry best practices.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Excellent communication skills.",
+        "company": {
+            "name": "QuantTech Labs",
+            "size": "10001+",
+            "type": "Multinational",
+            "location": "San Francisco, CA",
+            "website": "https://quanttechlabs.com",
+            "description": "TechBridges is a leading firm in the Multinational sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@terratechsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Gym membership, Paid time off",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Ph.D.",
+            "preferred_skills": "R"
+        }
+    },
+    {
+        "job_id": 94,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 162249,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 9,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "InfoFlow Solutions",
+            "size": "10001+",
+            "type": "Startup",
+            "location": "Austin, TX",
+            "website": "https://alphatechventures.com",
+            "description": "EvoTech Solutions is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@deeplearnsystems.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Parental leave, Vision insurance, Professional development assistance, Health insurance, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "h, n, g"
+        }
+    },
+    {
+        "job_id": 95,
+        "title": "Management Consultant - Data Science",
+        "industry": "Consulting",
+        "average_salary": 100973,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Management Consultant - Data Science at our firm involves ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making..",
+        "years_of_experience": 8,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Excellent communication skills., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field.",
+        "company": {
+            "name": "EvoTech Solutions",
+            "size": "501-1000",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://pioneerdataservices.com",
+            "description": "InfoFlow Solutions is a leading firm in the Startup sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@techbridges.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Dental insurance, Parental leave, Health insurance, Gym membership, Tuition reimbursement",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "L, Q, S"
+        }
+    },
+    {
+        "job_id": 96,
+        "title": "Financial Data Scientist",
+        "industry": "Finance",
+        "average_salary": 55197,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Financial Data Scientist at our firm involves this position requires close collaboration with other teams to understand their data needs and deliver impactful results..",
+        "years_of_experience": 4,
+        "responsibilities": "Present findings and insights to non-technical stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "TechBridges",
+            "size": "1-10",
+            "type": "Enterprise",
+            "location": "Seattle, WA",
+            "website": "https://quanttechlabs.com",
+            "description": "DataDive Analytics is a leading firm in the Enterprise sector. Located in WA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@alphatechventures.com"
+        },
+        "employment_details": {
+            "employment_type": "Internship",
+            "benefits": "Professional development assistance, Parental leave, Tuition reimbursement",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Bachelor's Degree",
+            "preferred_skills": "S, c, a"
+        }
+    },
+    {
+        "job_id": 97,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 117249,
+        "description": "Ideal candidates will have a strong foundation in both technical and statistical skills and be able to drive data-driven decision making.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 4,
+        "responsibilities": "Collaborate closely with cross-functional teams and stakeholders., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Proficiency in Python and SQL.",
+        "company": {
+            "name": "DeepLearn Systems",
+            "size": "501-1000",
+            "type": "Multinational",
+            "location": "San Francisco, CA",
+            "website": "https://deeplearnsystems.com",
+            "description": "NeuralNet Innovations is a leading firm in the SME sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Professional development assistance, Health insurance, Retirement plan",
+            "remote": false
+        },
+        "education_and_skills": {
+            "required_education": "Associate Degree",
+            "preferred_skills": "a"
+        }
+    },
+    {
+        "job_id": 98,
+        "title": "Investment Data Analyst",
+        "industry": "Finance",
+        "average_salary": 105501,
+        "description": "This role involves analyzing complex datasets and extracting actionable insights.",
+        "detailed_description": "The role of a Investment Data Analyst at our firm involves this role involves analyzing complex datasets and extracting actionable insights..",
+        "years_of_experience": 3,
+        "responsibilities": "Develop and implement state-of-the-art data analysis tools and methods., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Excellent communication skills., Bachelor's degree in Computer Science, Statistics, or related field., Strong analytical and problem-solving skills., Experience with data visualization tools like Tableau, PowerBI, etc., Proficiency in Python and SQL.",
+        "company": {
+            "name": "NeuralNet Innovations",
+            "size": "10001+",
+            "type": "Enterprise",
+            "location": "San Francisco, CA",
+            "website": "https://nexacoretech.com",
+            "description": "Optima Insights is a leading firm in the Enterprise sector. Located in CA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@infoflowsolutions.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Health insurance, Dental insurance, Professional development assistance, Parental leave, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Professional Certification",
+            "preferred_skills": "l, c, e"
+        }
+    },
+    {
+        "job_id": 99,
+        "title": "Business Technology Analyst",
+        "industry": "Consulting",
+        "average_salary": 44474,
+        "description": "This role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team.",
+        "detailed_description": "The role of a Business Technology Analyst at our firm involves candidates should be adept at handling large volumes of data and be familiar with modern data analysis tools..",
+        "years_of_experience": 6,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Develop and implement state-of-the-art data analysis tools and methods., Collaborate closely with cross-functional teams and stakeholders., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making.",
+        "requirements": "Proficiency in Python and SQL., Strong analytical and problem-solving skills., Bachelor's degree in Computer Science, Statistics, or related field., Excellent communication skills.",
+        "company": {
+            "name": "NexaTech",
+            "size": "11-50",
+            "type": "Enterprise",
+            "location": "Boston, MA",
+            "website": "https://insightfulanalytics.com",
+            "description": "DataDriven is a leading firm in the Startup sector. Located in MA, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@insightfulanalytics.com"
+        },
+        "employment_details": {
+            "employment_type": "Full-time",
+            "benefits": "Paid time off, Tuition reimbursement",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "Master's Degree",
+            "preferred_skills": "t"
+        }
+    },
+    {
+        "job_id": 100,
+        "title": "Healthcare Data Analyst",
+        "industry": "Healthcare",
+        "average_salary": 76818,
+        "description": "This position requires close collaboration with other teams to understand their data needs and deliver impactful results.",
+        "detailed_description": "The role of a Healthcare Data Analyst at our firm involves this role is at the forefront of the company's data initiatives and will have the opportunity to shape the direction of the data team..",
+        "years_of_experience": 3,
+        "responsibilities": "Stay updated with the latest techniques in data science and industry best practices., Present findings and insights to non-technical stakeholders., Analyze and interpret complex datasets to inform business decision-making., Develop and implement state-of-the-art data analysis tools and methods.",
+        "requirements": "Proficiency in Python and SQL., Experience with data visualization tools like Tableau, PowerBI, etc.",
+        "company": {
+            "name": "EvoTech Solutions",
+            "size": "51-200",
+            "type": "SME",
+            "location": "Austin, TX",
+            "website": "https://techbridges.com",
+            "description": "EvoTech Solutions is a leading firm in the Enterprise sector. Located in TX, we specialize in cutting-edge solutions and services.",
+            "hr_contact": "hr@pioneerdataservices.com"
+        },
+        "employment_details": {
+            "employment_type": "Contract",
+            "benefits": "Parental leave, Paid time off, Tuition reimbursement, Retirement plan, Gym membership",
+            "remote": true
+        },
+        "education_and_skills": {
+            "required_education": "High School Diploma",
+            "preferred_skills": "a, a, J, v"
+        }
+    }
+]

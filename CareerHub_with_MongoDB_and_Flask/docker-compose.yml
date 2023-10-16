@@ -1,0 +1,12 @@
+version: '1.0'
+
+services:
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      -  /Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql/NoSQL-projects/CareerHub_with_MongoDB_and_Flask:/project2
+    # environment: # disabling this for class practice only
+    #   MONGO_INITDB_ROOT_USERNAME: root
+    #   MONGO_INITDB_ROOT_PASSWORD: examplepassword
