@@ -1,0 +1,12 @@
+version: '3.0'
+
+services:
+  neo4j:
+    image: neo4j:latest
+    ports: 
+      - "7474:7474" # HTTP
+      - "7687:7687" # Bolt
+    volumes:
+      - /Users/stoneman/Library/CloudStorage/OneDrive-Vanderbilt/Nosql/NoSQL-projects/Social_Network_Database_in_Neo4j:/var/lib/neo4j/import  # Default import directory
+    environment:
+      NEO4J_AUTH: 'neo4j/password' # username/password
