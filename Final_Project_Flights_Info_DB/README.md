@@ -10,7 +10,8 @@ This project is a database system for domestic flight information in Australia. 
 | ADELAIDE | CANBERRA     | Jan-84| 1339            | 12             | 94.7                  | 972            | 1301508  | 1374348  | 1414  | 1984 | 1         |
 | ADELAIDE | DARWIN       | Jan-84| 3050            | 33             | 66.8                  | 2619           | 7987950  | 11958009 | 4566  | 1984 | 1         |
 
-I choose Neo4j database for storing this dataset. Reason: graph is perfect for representing the relation between two entities (cities). And the attributes could be the number of passanger_trips and aircraft_trips between two cities.
+
+I chose to use Neo4j for storing the dataset because graph databases like Neo4j are ideal for representing relationships, such as distances and monthly flight information, between entities (in this case, cities). The attributes, including the number of passenger trips, aircraft trips, and other related metrics between two cities, can be effectively modeled and managed in Neo4j’s graph structure. This approach leverages the inherent strengths of graph databases in capturing and querying complex relationships within data.
 
 ## Supported Queries
 - Retrieve the distance between two cities
